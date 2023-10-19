@@ -1,3 +1,3 @@
 ## Movies/TvShows watchlist using omdbapi API
 
-https://claudiug98.github.io/watchlist
+https://claudiug98.github.io/MovieWatchlist
