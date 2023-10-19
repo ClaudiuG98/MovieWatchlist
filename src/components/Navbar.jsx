@@ -8,7 +8,7 @@ function Navbar() {
         <div className="navbar-container">
             <div className="img-container"></div>
             <div className="header-container">
-                <Link to="/"><h1>Find your film</h1></Link>
+                <Link to="/MovieWatchlist"><h1>Find your film</h1></Link>
                 <Link to="/watchlist"><p>My Watchlist</p></Link>
             </div>
         </div>

@@ -10,7 +10,7 @@ function App() {
     <div>
       <Navbar />
       <Routes>
-          <Route exact path="/" element={<SearchPage />}/>
+          <Route exact path="/MovieWatchlist" element={<SearchPage />}/>
           <Route path="/watchlist" element={<MyWatchlist />}/>
       </Routes>
     </div>
